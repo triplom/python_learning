@@ -155,6 +155,19 @@ Phase 6  →  Bioinformatics + Deployment (Modules 16–17)
 
 ---
 
+## Related Projects
+
+This repo sits at the centre of the learning ecosystem — its skills feed directly into several other projects.
+
+| Project | Relationship | Relevant Modules |
+|---------|-------------|-----------------|
+| [machine-learning-lab](https://github.com/triplom/machine-learning-lab) | **Direct continuation** — deeper ML/DL curriculum built on top of this repo's Modules 10–13 | 10-data-science, 11-machine-learning, 12-deep-learning, 13-nlp |
+| [kali-hacking-lab](https://github.com/triplom/kali-hacking-lab) | **Month 8 (Python for Hacking)** uses Python scripting skills from this repo: socket programming, Scapy, web automation, wireless tools | 04-functions, 05-oop, 07-advanced-python |
+| [LearningGamification](https://github.com/triplom/LearningGamification) | DAML project — ML/data-science concepts (scoring, recommendations) can extend the gamification engine | 11-machine-learning, 13-nlp |
+| [lpic3-study-lab](https://github.com/triplom/lpic3-study-lab) | LPIC-OT 701 DevOps track uses Python scripting and container automation | 04-functions, 07-advanced-python |
+
+---
+
 ## License
 
 MIT © 2026 [@triplom](https://github.com/triplom)
